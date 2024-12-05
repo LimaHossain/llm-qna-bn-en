@@ -1,0 +1,97 @@
+[
+    {
+      "context": "বাংলাদেশের জাতীয় সংগীত ‘আমার সোনার বাংলা’।",
+      "question": "বাংলাদেশের জাতীয় সংগীত কি?",
+      "answer": "আমার সোনার বাংলা"
+    },
+    {
+      "context": "The human heart is a muscular organ that pumps blood throughout the body. It consists of four chambers: two atria and two ventricles.",
+      "question": "What is the primary function of the human heart?",
+      "answer": "To pump blood throughout the body."
+    },
+    {
+      "context": "বাংলাদেশের স্বাধীনতা যুদ্ধ ১৯৭১ সালে সংঘটিত হয়। এটি একটি গুরুত্বপূর্ণ ঐতিহাসিক ঘটনা।",
+      "question": "বাংলাদেশের স্বাধীনতা যুদ্ধ কবে সংঘটিত হয়?",
+      "answer": "১৯৭১ সালে"
+    },
+    {
+      "context": "The Moon is Earth's only natural satellite. It is believed to have formed from a giant impact between the Earth and a Mars-sized object.",
+      "question": "How did the Moon form?",
+      "answer": "From a giant impact between the Earth and a Mars-sized object."
+    },
+    {
+      "context": "কাজী নজরুল ইসলাম বাংলাদেশের বিখ্যাত কবি। তাঁকে বিদ্রোহী কবি বলা হয়।",
+      "question": "কাজী নজরুল ইসলাম কী ছিলেন?",
+      "answer": "বাংলাদেশী কবি"
+    },
+    {
+      "context": "Photosynthesis is the process by which plants convert light energy into chemical energy, which is stored in glucose. It requires sunlight, water, and carbon dioxide.",
+      "question": "What are the primary inputs for photosynthesis?",
+      "answer": "Sunlight, water, and carbon dioxide."
+    },
+    {
+      "context": "বাংলাদেশের জাতীয় ফুল শাপলা। এটি একটি সুন্দর জলজ ফুল।",
+      "question": "বাংলাদেশের জাতীয় ফুল কী?",
+      "answer": "শাপলা"
+    },
+    {
+      "context": "The Great Wall of China is the world's longest man-made structure. It was built to protect the Chinese Empire from invasions.",
+      "question": "What is the purpose of the Great Wall of China?",
+      "answer": "To protect the Chinese Empire from invasions."
+    },
+    {
+      "context": "মেঘনা নদী বাংলাদেশের একটি প্রধান নদী। এটি দেশের দক্ষিণ-পূর্ব অঞ্চলের মধ্য দিয়ে প্রবাহিত হয়।",
+      "question": "বাংলাদেশের একটি প্রধান নদী কোনটি?",
+      "answer": "মেঘনা নদী"
+    },
+    {
+      "context": "The Eiffel Tower is an iron lattice tower located on the Champ de Mars in Paris, France. It was named after the engineer Gustave Eiffel.",
+      "question": "In which city is the Eiffel Tower located?",
+      "answer": "Paris, France."
+    },
+    {
+      "context": "রবীন্দ্রনাথ ঠাকুর একজন বিখ্যাত বাঙালি কবি। তিনি নোবেল পুরস্কারও জিতেছিলেন।",
+      "question": "রবীন্দ্রনাথ ঠাকুর কী ছিলেন?",
+      "answer": "বাঙালি কবি"
+    },
+    {
+      "context": "Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions), and self-correction.",
+      "question": "What is the primary goal of artificial intelligence?",
+      "answer": "To simulate human intelligence processes."
+    },
+    {
+      "context": "সুফিয়া কামাল একজন বাংলাদেশী লেখিকা। তিনি অনেকগুলো উপন্যাস, গল্প ও কবিতা লিখেছেন।",
+      "question": "সুফিয়া কামাল কী?",
+      "answer": "বাংলাদেশী লেখিকা"
+    },
+    {
+      "context": "The largest ocean on Earth is the Pacific Ocean. It covers about one-third of the Earth's surface.",
+      "question": "Which is the largest ocean on Earth?",
+      "answer": "The Pacific Ocean."
+    },
+    {
+      "context": "হযরত শাহজালাল ইসলাম প্রচারক ছিলেন। তিনি বাংলাদেশে ইসলাম প্রচার করেছিলেন।",
+      "question": "হযরত শাহজালাল কী ছিলেন?",
+      "answer": "ইসলাম প্রচারক"
+    },
+    {
+      "context": "The DNA molecule is the carrier of genetic information. It is shaped like a double helix and composed of two polynucleotide chains.",
+      "question": "What is the shape of a DNA molecule?",
+      "answer": "A double helix."
+    },
+    {
+      "context": "পদ্মা সেতু বাংলাদেশের একটি গুরুত্বপূর্ণ সেতু। এটি দেশের দক্ষিণ-পশ্চিমাঞ্চলকে উত্তরাঞ্চলের সাথে যুক্ত করেছে।",
+      "question": "পদ্মা সেতু কোন দেশের?",
+      "answer": "বাংলাদেশের"
+    },
+    {
+      "context": "The tallest mountain on Earth is Mount Everest, located in the Mahalangur Himal sub-range of the Himalayas. It is situated on the border between Nepal and China.",
+      "question": "Where is Mount Everest located?",
+      "answer": "On the border between Nepal and China."
+    },
+    {
+      "context": "ঢাকা বাংলাদেশের রাজধানী। এটি একটি ঐতিহাসিক ও সাংস্কৃতিক শহর।",
+      "question": "বাংলাদেশের রাজধানী কোনটি?",
+      "answer": "ঢাকা"
+    }
+  ]
